@@ -10,6 +10,6 @@ Here are some ideas to get you started:
 - 👯 I’m looking to collaborate on more Games.
 - 🤔 I’m looking for help with PHP.
 - 💬 Ask me about GTA Menu or any tech-related stuff
-- 📫 How to reach me: [Discord - @Bruth#2021] (https://discord.gg/2gtn9ggQEF) , [Youtube - @CLOUD PROJECT] -(https://www.youtube.com/channel/UCEnNgMHppikbdx7rcNV_1Ww)
+- 📫 How to reach me: [Discord - @Bruth#2021](https://discord.gg/2gtn9ggQEF), [Youtube - @CLOUD PROJECT](https://www.youtube.com/channel/UCEnNgMHppikbdx7rcNV_1Ww)
 - 😄 Pronouns: He/His
 - ⚡ Fun fact: I spend almost 12 hours listening to songs or watching movie every day.
