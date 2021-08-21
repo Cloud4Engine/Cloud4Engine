@@ -17,5 +17,5 @@ Here are some ideas to get you started:
 
 <h2 align="center">I ❤️ Memes :wink:</h2>
 <p align="center">
-<img alt="Random Memes" title="programming memes by ohidurbappy" height="250px" src="https://web.ohidur.com/memes/random.jpg?category=programming">
+<img alt="Random Memes" title="programming memes by ohidurbappy" height="250px" src="https://cdn.discordapp.com/attachments/797115429382389820/874541294448422932/image0.png">
 </p>
